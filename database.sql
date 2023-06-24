@@ -1,7 +1,7 @@
 /**
 * USERS
 * Note: This table contains user data. Users should only be able to view and update their own data.
-* Stripe subscriptions template script for us to use in Supabase.
+* Stripe subscriptions template script for us to use in Supabase using Next.js.
 */
 create table users (
   -- UUID from auth.users
